@@ -1,0 +1,252 @@
+D:\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+D:\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+D:\School Managment System\School Managment System\bin\Debug\MaterialSkin.dll
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+D:\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+D:\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+D:\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+D:\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\Venum\Desktop\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\Venum\Desktop\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\Venum\Desktop\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\Venum\Desktop\School Managment System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.csprojAssemblyReference.cache
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.CopyComplete
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\Venum\Desktop\School Managment System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\zeesh\Downloads\Compressed\School Managment System\School Managment System\obj\Debug\School Managment System.csprojResolveAssemblyReference.cache
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csprojAssemblyReference.cache
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.CopyComplete
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csprojResolveAssemblyReference.cache
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.DiaologForm.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.DiaologForm.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AssignGrades.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.MarkAttendance.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AssignGrades.resources
+C:\Users\Venum\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.MarkAttendance.resources
+C:\Users\Zeeshan Mehdi\OneDrive\University Projects\School Managment System\School Managment System\obj\Debug\School_Managment_System.AddTeacher.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.csprojAssemblyReference.cache
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\C_v\Desktop\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\C_v\Desktop\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\C_v\Desktop\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\C_v\Desktop\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.AddTeacher.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.AssignGrades.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.DiaologForm.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.MarkAttendance.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\C_v\Desktop\School Managment System\obj\Debug\School Managment System.csproj.CopyComplete
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csprojAssemblyReference.cache
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Account_staff.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Account_Staff_Portal.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AddTeacher.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AssignGrades.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Collect_fee.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.DiaologForm.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Expenses.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.MarkAttendance.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Release_Salaries.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csproj.CopyComplete
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadFootball.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadAffiliation.resources
+C:\Users\Venum\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadMusic.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.exe.config
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.exe
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.pdb
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Account_staff.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Account_Staff_Portal.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AddCourses.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AddTeacher.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AdminLogin.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AdminDashboard.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Applications.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.AssignGrades.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Collect_fee.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.contactUs.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.DiaologForm.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Expenses.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Inventry.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.MarkAttendance.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.News.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadAffiliation.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadFootball.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.ReadMusic.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.RegisterCourse.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Release_Salaries.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Schedule.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.SMS.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Staff_Loginform.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.student_loginform.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Student_portal.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.teacher_loginform.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.teacher_portal.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.exe
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\School Managment System.pdb
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\MaterialSkin.dll
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\MetroFramework.dll
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Admin.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Admin_UserControl.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.Admin_dsh_usercontrol.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\Bunifu.Core.dll
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.statistics_userControl.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School Managment System.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.studentslist.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.StudentLife.resources
+C:\Users\HP\OneDrive\University Projects\updated School Management System\School Managment System\obj\Debug\School_Managment_System.teacherslist.resources
